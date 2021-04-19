@@ -195,6 +195,10 @@
     "timeout": 300,
     "tests": ["0f5bb38c-dab5-4cb8-a38c-5b334e91fb0f"]
   }],
+<<<<<<< HEAD
   "urls": ["https://www.gismeteo.ru/", "https://github.com/"],
+=======
+  "urls": ["https://www.gismeteo.ru/"],
+>>>>>>> 6ad829b86db76c09ad80b1b7d01ecb01eeb2ff58
   "plugins": []
 }
