@@ -20,7 +20,7 @@ class TestGithubshort():
 
   def test_githubshort(self):
     self.open_home_page()
-    self.login( username="SergeyShorgin", password="Stunt686rider")
+    self.login(username="SergeyShorgin", password="Stunt686rider")
     self.logout()
 
   def logout(self):
